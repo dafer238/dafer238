@@ -3,7 +3,7 @@
 [![Webpage](https://img.shields.io/badge/neodafer.com-000000?style=flat&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSI+CgkgPGNpcmNsZSBjeD0iMTIiIGN5PSIxMiIgcj0iMTAiIHN0cm9rZT0id2hpdGUiIHN0cm9rZS13aWR0aD0iMiIvPgoJIDxwYXRoIGQ9Ik0yIDEyaDIwIiBzdHJva2U9IndoaXRlIiBzdHJva2Utd2lkdGg9IjIiLz4KCSA8cGF0aCBkPSJNMTIgMmExNSAxNSAwIDAgMSAwIDIwYTE1IDE1IDAgMCAxIDAtMjAiIHN0cm9rZT0id2hpdGUiIHN0cm9rZS13aWR0aD0iMiIvPgo8L3N2Zz4=&logoColor=white)](https://neodafer.com "neodafer.com")
 ---
 
-### Self-taught backend software engineer. Industrial engineer & PhD researcher in supercritical CO₂ power cycles as a side hustle.
+### Self-taught software engineer. Industrial engineer & PhD researcher in supercritical CO₂ power cycles as a side hustle.
 
 - **Thermodynamics** — modeling, simulating and optimizing power cycles, including supercritical CO₂ systems.  
 - **CFD** — applying computational methods to analyze flows, heat transfer and engineering systems.  
