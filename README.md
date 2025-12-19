@@ -5,11 +5,11 @@
 
 ### Self-taught software engineer. Industrial engineer & PhD researcher in supercritical CO₂ power cycles as a side hustle.
 
-- **Thermodynamics** — modeling, simulating and optimizing power cycles, including supercritical CO₂ systems.  
-- **CFD** — applying computational methods to analyze flows, heat transfer and engineering systems.  
-- **Data Science** — extracting insights via numerical modeling, scripting and automated analysis.  
-- **Finance** — interest in quantitative methods, market analysis and data-driven decision making.  
-- **Self Hosting** — running and maintaining personal infrastructure on Linux-based environments.
+- **Thermodynamics** - modeling, simulating and optimizing power cycles, including supercritical CO₂ systems.  
+- **CFD** - applying computational methods to analyze flows, heat transfer and engineering systems.  
+- **Data Science** - extracting insights via numerical modeling, scripting and automated analysis.  
+- **Finance** - interest in quantitative methods, market analysis and data-driven decision making.  
+- **Self Hosting** - running and maintaining personal infrastructure on Linux-based environments.
 
 [![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)](https://www.python.org/)
 [![Rust](https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white)](https://www.rust-lang.org/)
